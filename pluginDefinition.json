@@ -1,0 +1,30 @@
+{
+  "identifier": "com.rs.zoe.zlux-file-properties",
+  "apiVersion": "1.0",
+  "pluginVersion": "1.0",
+  "pluginType": "application",
+  "webContent": {
+    "framework": "angular2",
+    "launchDefinition": {
+      "pluginShortNameKey": "zlux-file-properties",
+      "pluginShortNameDefault": "zlux-file-properties"
+    },
+    "descriptionKey": "zlux-file-propertiesDescription",
+    "descriptionDefault": "zlux-file-properties",
+    "isSingleWindowApp": false,
+    "defaultWindowStyle": {
+      "width": 1100,
+      "height": 682
+    }
+  },
+  "configurationData": {
+    "resources": {
+      "zluxusstable": {
+        "variable": true,
+        "locationType": "relative",
+        "aggregationPolicy": "override"
+      }
+    }
+  },
+  "dataServices": []
+}
