@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@types/node": "^6.0.96",
-    "@zlux/grid": "git+ssh://git@github.com:rocketgiza/zlux-grid.git",
+    "@zlux/grid": "git+ssh://git@github.com:zowe/zlux-grid.git",
     "angular2-template-loader": "^0.6.2",
     "codelyzer": "~3.0.1",
     "css-loader": "^0.28.9",
